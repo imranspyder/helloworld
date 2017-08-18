@@ -6,7 +6,8 @@ int add (int a, int b)
 void main()
 
 {
-  add (2,5);
+printf("Iam trying to develop, my own banch"); 
+ add (2,5);
 
  return 0;
 }
