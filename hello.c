@@ -1,7 +1,13 @@
 #include<stdio.h>
-void main()
+int add (int a, int b) 
 {
- printf("Hello, World!");
+ return a+b;
+}
+void main()
+
+{
+  add (2,5);
+
  return 0;
 }
 
