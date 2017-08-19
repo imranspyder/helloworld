@@ -7,8 +7,9 @@ void main()
 
 {
 printf("Iam trying to develop, my own banch"); 
- add (2,5);
-
+printf("Develping code is my passion"); 
+add (2,5);
+ 
  return 0;
 }
 
